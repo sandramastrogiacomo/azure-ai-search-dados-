@@ -1,0 +1,7 @@
+{
+  "indexName": "meu-index",
+  "fields": [
+    { "name": "id", "type": "Edm.String", "key": true },
+    { "name": "titulo", "type": "Edm.String", "searchable": true }
+  ]
+}
